@@ -10,10 +10,9 @@ I like to make various forms of art and to learn new coding languages. I enjoy s
 
 
 ## My Favorite Quote
+> The years teach much which the days never know
 
-The years teach much which the days never know 
-**Ralph Waldo Emerson** From Essays: Second Series(1844) (according to fixquotes.com)
-
+**- Ralph Waldo Emerson** “A Quote by Ralph Waldo Emerson.” Goodreads, Goodreads, www.goodreads.com/quotes/692877-the-years-teach-us-much-which-the-days-never-knew. Accessed 7 Sept. 2025. 
 
 ## My Top 3 Favorite Foods
 1. Peach Cobbler
@@ -23,6 +22,8 @@ The years teach much which the days never know
 
 ## Where to Find Me
 
+[My GitHub Profile](https://github.com/aelind)
+[Link to the photo containing one of the nicknames I have](https://unsplash.com/photos/brown-fruit-on-green-leaves-during-daytime-2o8a64Gznlo)
 
 
 
@@ -31,7 +32,8 @@ The years teach much which the days never know
 
 
 ![tina-xinia-2o8a64Gznlo-unsplash](https://github.com/user-attachments/assets/3b851a02-e779-4269-b0e2-f25bc61ac9a0)
+Alt text: Acorns on the branch of an oak tree in natural light
 
-Here is an MLNA9 formatted citation for the photo above: Xinia, Tina. brown fruit on green leaves during daytime. 19 Oct. 2020. Unslpash, Unsplash, https://unsplash.com/photos/brown-fruit-on-green-leaves-during-daytime-2o8a64Gznlo?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash. Accessed 7 Sept. 2025. 
+Here is an MLA9 formatted citation for the photo above: Xinia, Tina. brown fruit on green leaves during daytime. 19 Oct. 2020. Unslpash, Unsplash, https://unsplash.com/photos/brown-fruit-on-green-leaves-during-daytime-2o8a64Gznlo?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash. Accessed 7 Sept. 2025. 
 
 
