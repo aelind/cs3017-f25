@@ -4,7 +4,7 @@ title: Welcome Home!
 excerpt: This is a test excerpt
 
 header:
-    image: /assets/images/pexels-umkreiset-tree.jpg
+    image: assets\images\pexels-umkreisel-tree.jpg
     actions:
         - label: "Learn More"
           url: /about
